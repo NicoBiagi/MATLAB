@@ -4,7 +4,7 @@ Bunch of scripts in MATLAB that I have used in my PhD
 FOLDERS:
 Analysis: contains scripts I have used to analyse eye-tracker data in MATLAB when I was working with some UG students
 EMG analysis: contains scripts I have used to analyse the EMG data obtained from LabChart and already exported as .txt file
-Setting File: contains screen realted scripts (needed for some tasks)
+Setting File: contains screen related scripts (needed for some tasks)
 Tasks: containst scripts I have used to present different kind of stimuli using PsychToolBox (PTB
 
 FILES:
